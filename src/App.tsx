@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { setUserData } from "./pages/shared/reducer";
 import { CssBaseline } from "@nextui-org/react";
